@@ -41,7 +41,7 @@ Permite seleccionar dos características del dataset y visualizar su distribuci�
 - **Botón "Visualizar Scatter Plot"**: Genera la gráfica de dispersión.
 
 ### Imagen Referencia:
-![Visualización](images/visualizacion_tab.png)
+![Visualización](../images/visualizacion_tab.png)
 
 ---
 
@@ -65,10 +65,9 @@ Entrenar el perceptrón con configuraciones personalizadas.
    - PDF: Reporte completo.
 
 ### Imagen Referencia:
-![Entrenamiento](images/entrenamiento_tab.png)
+![Entrenamiento](../images/entrenamiento_tab.png)
 
-### Frontera de Decisión:
-![Frontera](images/frontera_decision.png)
+![Frontera](../images/frontera_decision.png)
 
 ---
 
@@ -86,13 +85,11 @@ Visualizar el rendimiento del modelo durante el entrenamiento.
 - PNG: Accuracy.
 
 ### Imagen Referencia:
-![Métricas](images/metricas_tab.png)
+![Métricas](../images/metricas_tab.png)
 
-### Gráfica MSE:
-![MSE](images/mse_grafica.png)
+![MSE](../images/mse_grafica.png)
 
-### Gráfica Accuracy:
-![Accuracy](images/accuracy_grafica.png)
+![Accuracy](../images/accuracy_grafica.png)
 
 ---
 
@@ -104,7 +101,7 @@ Visualizar el rendimiento del modelo durante el entrenamiento.
    - Gráficas: Frontera, MSE y Accuracy.
 
 ### Imagen Referencia:
-![Reporte PDF](images/reporte_pdf.png)
+![Reporte PDF](../images/reporte_pdf.png)
 
 ---
 
@@ -116,7 +113,6 @@ Visualizar el rendimiento del modelo durante el entrenamiento.
 ---
 
 ## Contacto
-Para dudas o soporte, contactar al desarrollador por email: **lamr467@gmail.com**
+Para dudas o soporte, contactar al desarrollador por email: lamr467@gmail.com.
 
 ---
-
